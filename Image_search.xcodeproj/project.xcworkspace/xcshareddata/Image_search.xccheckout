@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>402C7E30-B87E-4FA6-B695-0886FFB21D72</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Image_search</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2674A18AB910DAD2A37FD0AE58D9FAAB0974489E</key>
+		<string>https://github.com/Rangozhang/leatherPatternIdentification.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Image_search.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2674A18AB910DAD2A37FD0AE58D9FAAB0974489E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Rangozhang/leatherPatternIdentification.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2674A18AB910DAD2A37FD0AE58D9FAAB0974489E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2674A18AB910DAD2A37FD0AE58D9FAAB0974489E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>leatherPatternIdentification</string>
+		</dict>
+	</array>
+</dict>
+</plist>
